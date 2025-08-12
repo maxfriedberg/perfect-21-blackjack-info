@@ -1,2 +1,21 @@
-# perfect-21-blackjack-info
-Support info and privacy policy for Perfect 21 Blackjack IOS App
+# Perfect 21 Blackjack — Privacy Policy & Support
+
+## Privacy Policy
+
+We respect your privacy and do **not** collect, store, or share any personal information from users.  
+The app works fully offline and does not track any user data.
+
+If you have any questions about privacy, please contact us via the support section below.
+
+---
+
+## Support
+
+Thanks for playing Perfect 21 Blackjack!
+
+If you have questions, encounter issues, or want to provide feedback, please open an issue in this repository or contact us at:  
+[maxfthomas2000@gmail.com] (replace with your real email)
+
+---
+
+*This page serves as the official Privacy Policy and Support page for Perfect 21 Blackjack.*

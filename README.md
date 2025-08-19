@@ -18,4 +18,4 @@ If you have questions, encounter issues, or want to provide feedback, please ope
 
 ---
 
-*This page serves as the official Privacy Policy and Support page for Perfect 21 Blackjack.*
+*This page serves as the official Privacy Policy and Support page for Blackjack Lab.*

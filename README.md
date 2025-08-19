@@ -11,7 +11,7 @@ If you have any questions about privacy, please contact us via the support secti
 
 ## Support
 
-Thanks for playing Perfect 21 Blackjack!
+Thanks for playing Blackjack Lab!
 
 If you have questions, encounter issues, or want to provide feedback, please open an issue in this repository or contact us at:  
 [maxfthomas2000@gmail.com] (replace with your real email)

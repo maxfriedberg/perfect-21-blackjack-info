@@ -1,4 +1,4 @@
-# Perfect 21 Blackjack — Privacy Policy & Support
+# Blackjack Lab App — Privacy Policy & Support
 
 ## Privacy Policy
 
